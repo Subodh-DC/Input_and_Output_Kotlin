@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Input and output</string>
+    <string name="Num1">Enter First Number :</string>
+    <string name="Num2">Enter Second Number :</string>
+    <string name="Add">Add</string>
+    <string name="Subtract">Subtract</string>
+    <string name="Multiply">Multiply</string>
+    <string name="Divide">Divide</string>
+</resources>
